@@ -1,0 +1,66 @@
+{
+  "list": [
+    {
+      "name":"Jessica Hamrick",
+      "url":"http://www.jesshamrick.com",
+      "desc":"Model-based deep reinforcement learning"
+    },
+    {
+      "name":"Brenden Lake",
+      "url":"https://cims.nyu.edu/~brenden/",
+      "desc":"Probabilistic program induction"
+    },
+    {
+      "name":"Eric Schulz",
+      "url":"https://cpilab.org",
+      "desc":"Multi-task reinforcement learning"
+    },
+    {
+      "name":"Kevin Ellis",
+      "url":"https://www.cs.cornell.edu/~ellisk/",
+      "desc":"Neurosymbolic learning and program syn- thesis"
+    },
+    {
+      "name":"Steven Piantadosi",
+      "url":"http://colala.berkeley.edu/people/piantadosi/",
+      "desc":"Some ideas in program induction"
+    },
+    {
+      "name":"Jiajun Wu",
+      "url":"https://jiajunwu.com",
+      "desc":"The neurosymbolic concept learner"
+    },
+    {
+      "name":"Judith Fan",
+      "url":"https://cogtoolslab.github.io",
+      "desc":"Deep neural representations for visual communication"
+    },
+    {
+      "name":"Neil Bramley",
+      "url":"https://www.bramleylab.ppls.ed.ac.uk",
+      "desc":"Program synthesis in development"
+    },
+    {
+      "name":"Guillermo Puebla",
+      "url":"https://guillermopuebla.github.io",
+      "desc":"Relational reinforcement learning"
+    },
+    {
+      "name":"Kate McCurdy",
+      "url":"https://kmccurdy.github.io",
+      "desc":"Neural encoder-decoder networks as cognitive models of grammar"
+    },
+    {
+      "name":"Bonan Zhao",
+      "url":"http://bramleylab.ppls.ed.ac.uk/member/bonan/",
+      "desc":"Object-based causal generalization"
+    },
+    {
+      "name":"Thomas Icard",
+      "url":"https://web.stanford.edu/~icard/",
+      "desc":"Program induction and causal inference"
+    }
+  ]
+}
+
+
