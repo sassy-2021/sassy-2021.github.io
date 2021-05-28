@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-
 To what extent is symbolic processing required for intelligent behavior? 
 Advances in both sub-symbolic deep learning systems and explicitly symbolic probabilistic program induction approaches have recently reinvigorated this long standing question about cognition. 
 
@@ -12,4 +9,3 @@ This workshop at <a href="https://cognitivesciencesociety.org/cogsci-2021/" targ
 
 
 You can view the full workshop description <a href="https://cognitivesciencesociety.org/wp-content/uploads/2021/05/WS1.pdf" target="_blank">here</a>
->>>>>>> 68b6a6a75137d655543ef0fdbe54d97ea929ce25
