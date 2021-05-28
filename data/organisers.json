@@ -1,0 +1,32 @@
+{
+  "list": [
+   {
+      "name":"Simon Valentin",
+      "url":"https://simonvalentin.github.io",
+      "desc":""
+    },
+    {
+      "name":"Bonan Zhao",
+      "url":"http://bramleylab.ppls.ed.ac.uk/member/bonan/",
+      "desc":""
+    },
+    {
+      "name":"Chentian Jiang",
+      "url":"https://chentianj.com",
+      "desc":""
+    },
+    {
+      "name":"Neil Bramley",
+      "url":"https://www.bramleylab.ppls.ed.ac.uk",
+      "desc":""
+    },
+    {
+      "name":"Chris Lucas",
+      "url":"https://lucaslab-uoe.github.io",
+      "desc":""
+    }
+    
+  ]
+}
+
+
