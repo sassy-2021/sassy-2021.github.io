@@ -1,6 +1,6 @@
 baseURL = "https://sassy-2021.github.io"
 languageCode = "en-us"
-title = "Symbolic and Sub-Symbolic Systems in People and Machines (2021)"
+title = "Symbolic and Sub-Symbolic Systems in People and Machines (July 26 2021)"
 theme = "cactus"
 # copyright = "You" # cactus will use title if copyright is not set
 # disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
@@ -43,13 +43,13 @@ theme = "cactus"
   googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "More info coming soon!"
+  description = "To what extent is symbolic processing required for intelligent behaviour? Advances in both sub-symbolic deep learning systems and explicitly symbolic probabilistic program induction approaches have recently reinvigorated this long standing question about cognition. While sub-symbolic approaches have shown impressive results, they still lag far behind human cognition, e.g., in the compositional re-use of learned concepts or generalizing to new contexts. Symbolic systems have successfully addressed some of these shortcomings, but face other unsolved issues relating to feature selection, thorny search spaces and scalability. This workshop intends to bring together established and newly emerging perspectives on the debate and explore the recently rekindled interest in hybrid architectures."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 0 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = false # show tags overview by default.
-  showProjectsList = false # show projects list by default (if projects data file exists).
-  projectsUrl = "" # title link for projects list
+  showProjectsList = true # show projects list by default (if projects data file exists).
+  projectsUrl = "https://github.com/gohugoio" # title link for projects list
 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
   dateFormat = "2006-01-02" # default
