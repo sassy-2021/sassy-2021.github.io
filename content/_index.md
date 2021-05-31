@@ -7,4 +7,4 @@ While sub-symbolic approaches have shown impressive results, they still lag far 
 This workshop at <a href="https://cognitivesciencesociety.org/cogsci-2021/" target="_blank">CogSci 2021</a> intends to bring together established and newly emerging perspectives on the debate and explore the recently rekindled interest in hybrid architectures. 
 
 
-You can view the full workshop description <a href="https://cognitivesciencesociety.org/wp-content/uploads/2021/05/WS1.pdf" target="_blank">here</a>
+You can view the full workshop description <a href="https://cognitivesciencesociety.org/wp-content/uploads/2021/05/WS1.pdf" target="_blank">here</a>.
