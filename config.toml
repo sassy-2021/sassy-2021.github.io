@@ -5,6 +5,7 @@ theme = "cactus"
 # copyright = "" # cactus will use title if copyright is not set
 # disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
+publishDir = "docs/"
 
 
 # summaryLength = 2
@@ -40,6 +41,7 @@ theme = "cactus"
       unsafe = true
 
 [params]
+  css = ["css/custom.css"]
 
   colortheme = "white" # dark, light, white, or classic
   rss = false # generate rss feed. default value is false
