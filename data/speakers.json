@@ -1,71 +1,69 @@
 {
   "list": [
     {
-      "name":"Jessica Hamrick",
+      "name":"Jessica Hamrick (DeepMind)",
       "url":"http://www.jesshamrick.com",
       "desc":"Model-based deep reinforcement learning"
     },
     {
-      "name":"Brenden Lake",
+      "name":"Brenden Lake (NYU)",
       "url":"https://cims.nyu.edu/~brenden/",
       "desc":"Probabilistic program induction"
     },
     {
-      "name":"Eric Schulz",
+      "name":"Eric Schulz (MPI Tübingen)",
       "url":"https://cpilab.org",
       "desc":"Multi-task reinforcement learning"
     },
     {
-      "name":"Kelsey Allen",
+      "name":"Kelsey Allen (MIT)",
       "url":"https://k-r-allen.github.io/",
       "desc":"Symbolic planning and simulation in the physical world"
     },
     {
-      "name":"Kevin Ellis",
+      "name":"Kevin Ellis (Cornell)",
       "url":"https://www.cs.cornell.edu/~ellisk/",
       "desc":"Neurosymbolic learning and program synthesis"
     },
     {
-      "name":"Steven Piantadosi",
+      "name":"Steven Piantadosi (UC Berkeley)",
       "url":"http://colala.berkeley.edu/people/piantadosi/",
       "desc":"Some ideas in program induction"
     },
     {
-      "name":"Jiajun Wu",
+      "name":"Jiajun Wu (Stanford)",
       "url":"https://jiajunwu.com",
       "desc":"The neurosymbolic concept learner"
     },
     {
-      "name":"Judith Fan",
+      "name":"Judith Fan (UC San Diego)",
       "url":"https://cogtoolslab.github.io",
       "desc":"Deep neural representations for visual communication"
     },
     {
-      "name":"Neil Bramley",
+      "name":"Neil Bramley (Edinburgh)",
       "url":"https://www.bramleylab.ppls.ed.ac.uk",
       "desc":"Program synthesis in development"
     },
     {
-      "name":"Guillermo Puebla",
+      "name":"Guillermo Puebla (Bristol)",
       "url":"https://guillermopuebla.github.io",
       "desc":"Relational reinforcement learning"
     },
     {
-      "name":"Kate McCurdy",
+      "name":"Kate McCurdy (Edinburgh)",
       "url":"https://kmccurdy.github.io",
       "desc":"Neural encoder-decoder networks as cognitive models of grammar"
     },
     {
-      "name":"Bonan Zhao",
+      "name":"Bonan Zhao (Edinburgh)",
       "url":"http://bramleylab.ppls.ed.ac.uk/member/bonan/",
       "desc":"Object-based causal generalization"
     },
     {
-      "name":"Thomas Icard",
+      "name":"Thomas Icard (Stanford)",
       "url":"https://web.stanford.edu/~icard/",
       "desc":"Program induction and causal inference"
     }
   ]
 }
-
-
