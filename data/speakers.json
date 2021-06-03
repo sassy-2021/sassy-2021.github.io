@@ -16,6 +16,11 @@
       "desc":"Multi-task reinforcement learning"
     },
     {
+      "name":"Kelsey Allen",
+      "url":"https://k-r-allen.github.io/",
+      "desc":"Symbolic planning and simulation in the physical world"
+    },
+    {
       "name":"Kevin Ellis",
       "url":"https://www.cs.cornell.edu/~ellisk/",
       "desc":"Neurosymbolic learning and program synthesis"
