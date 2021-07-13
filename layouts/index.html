@@ -11,7 +11,7 @@
   <span class="h1">Speakers</span>
   {{ range .Site.Data.speakers.list }}
   <li class="project-item">
-    <a href="{{ .url }}">{{ .name }}</a>: {{ .desc | markdownify }}
+    <a href="{{ .url }}">{{ .name }}</a> ({{ .desc | markdownify }})
   </li>
   {{ end }}
 </ul>
@@ -22,7 +22,7 @@
   <span class="h1">Panelists</span>
   {{ range .Site.Data.panelists.list }}
   <li class="project-item">
-    <a href="{{ .url }}">{{ .name }}</a>
+    <a href="{{ .url }}">{{ .name }}</a> ({{ .desc | markdownify }})
   </li>
   {{ end }}
 </ul>
@@ -33,7 +33,7 @@
   <span class="h1">Organizers</span>
   {{ range .Site.Data.organisers.list }}
   <li class="project-item">
-    <a href="{{ .url }}">{{ .name }}</a>
+    <a href="{{ .url }}">{{ .name }}</a> ({{ .desc | markdownify }})
   </li>
   {{ end }}
 </ul>

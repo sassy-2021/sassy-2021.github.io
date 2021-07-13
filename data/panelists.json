@@ -1,14 +1,14 @@
 {
   "list": [
     {
-      "name":"Peter Dayan (MPI Tübingen)",
-      "url":"https://www.mpg.de/12309370/biological-cybernetics-dayan",
-      "desc":""
+      "name":"Nick Chater",
+      "url":"https://www.wbs.ac.uk/about/person/nick-chater/",
+      "desc":"Behavioural Science Group at Warwick Business School"
     },
     {
-      "name":"Nick Chater (Warwick Business School)",
-      "url":"https://www.wbs.ac.uk/about/person/nick-chater/",
-      "desc":""
+      "name":"Peter Dayan",
+      "url":"https://www.mpg.de/12309370/biological-cybernetics-dayan",
+      "desc":"MPI for Biological Cybernetics"
     }
   ]
 }

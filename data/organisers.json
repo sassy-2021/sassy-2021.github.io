@@ -1,32 +1,30 @@
 {
   "list": [
    {
-      "name":"Simon Valentin (Edinburgh)",
+      "name":"Simon Valentin",
       "url":"https://simonvalentin.github.io",
-      "desc":""
+      "desc":"University of Edinburgh"
     },
     {
-      "name":"Bonan Zhao (Edinburgh)",
+      "name":"Bonan Zhao",
       "url":"http://bramleylab.ppls.ed.ac.uk/member/bonan/",
-      "desc":""
+      "desc":"University of Edinburgh"
     },
     {
-      "name":"Chentian Jiang (Edinburgh)",
+      "name":"Chentian Jiang",
       "url":"https://chentianj.com",
-      "desc":""
+      "desc":"University of Edinburgh"
     },
     {
-      "name":"Neil Bramley (Edinburgh)",
+      "name":"Neil Bramley",
       "url":"https://www.bramleylab.ppls.ed.ac.uk",
-      "desc":""
+      "desc":"University of Edinburgh"
     },
     {
-      "name":"Chris Lucas (Edinburgh)",
+      "name":"Chris Lucas",
       "url":"https://lucaslab-uoe.github.io",
-      "desc":""
+      "desc":"University of Edinburgh"
     }
-    
+
   ]
 }
-
-

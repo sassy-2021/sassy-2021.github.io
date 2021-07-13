@@ -1,69 +1,69 @@
 {
   "list": [
     {
-      "name":"Jessica Hamrick (DeepMind)",
-      "url":"http://www.jesshamrick.com",
-      "desc":"Model-based deep reinforcement learning"
-    },
-    {
-      "name":"Brenden Lake (NYU)",
-      "url":"https://cims.nyu.edu/~brenden/",
-      "desc":"Probabilistic program induction"
-    },
-    {
-      "name":"Eric Schulz (MPI Tübingen)",
-      "url":"https://cpilab.org",
-      "desc":"Multi-task reinforcement learning"
-    },
-    {
-      "name":"Kelsey Allen (DeepMind)",
+      "name":"Kelsey Allen",
       "url":"https://k-r-allen.github.io/",
-      "desc":"Symbolic planning and simulation in the physical world"
+      "desc":"Research Scientist, DeepMind"
     },
     {
-      "name":"Kevin Ellis (Cornell)",
-      "url":"https://www.cs.cornell.edu/~ellisk/",
-      "desc":"Neurosymbolic learning and program synthesis"
-    },
-    {
-      "name":"Steven Piantadosi (UC Berkeley)",
-      "url":"http://colala.berkeley.edu/people/piantadosi/",
-      "desc":"Some ideas in program induction"
-    },
-    {
-      "name":"Jiajun Wu (Stanford)",
-      "url":"https://jiajunwu.com",
-      "desc":"The neurosymbolic concept learner"
-    },
-    {
-      "name":"Judith Fan (UC San Diego)",
-      "url":"https://cogtoolslab.github.io",
-      "desc":"Deep neural representations for visual communication"
-    },
-    {
-      "name":"Neil Bramley (Edinburgh)",
+      "name":"Neil Bramley",
       "url":"https://www.bramleylab.ppls.ed.ac.uk",
-      "desc":"Program synthesis in development"
+      "desc":"Bramley Lab, University of Edinburgh"
     },
     {
-      "name":"Guillermo Puebla (Bristol)",
-      "url":"https://guillermopuebla.github.io",
-      "desc":"Relational reinforcement learning"
+      "name":"Kevin Ellis",
+      "url":"https://www.cs.cornell.edu/~ellisk/",
+      "desc":"Cornell University"
     },
     {
-      "name":"Kate McCurdy (Edinburgh)",
-      "url":"https://kmccurdy.github.io",
-      "desc":"Neural encoder-decoder networks as cognitive models of grammar"
+      "name":"Judith Fan",
+      "url":"https://cogtoolslab.github.io",
+      "desc":"Cognitive Tools Lab, UC San Diego"
     },
     {
-      "name":"Bonan Zhao (Edinburgh)",
-      "url":"http://bramleylab.ppls.ed.ac.uk/member/bonan/",
-      "desc":"Object-based causal generalization"
+      "name":"Jessica Hamrick",
+      "url":"http://www.jesshamrick.com",
+      "desc":"Senior Research Scientist, DeepMind"
     },
     {
-      "name":"Thomas Icard (Stanford)",
+      "name":"Thomas Icard",
       "url":"https://web.stanford.edu/~icard/",
-      "desc":"Program induction and causal inference"
+      "desc":"Stanford University"
+    },
+    {
+      "name":"Brenden Lake",
+      "url":"https://cims.nyu.edu/~brenden/",
+      "desc":"Human & Machine Learning Lab, NYU"
+    },
+    {
+      "name":"Kate McCurdy",
+      "url":"https://kmccurdy.github.io",
+      "desc":"CDT Data Science, University of Edinburgh"
+    },
+    {
+      "name":"Steven Piantadosi",
+      "url":"http://colala.berkeley.edu/people/piantadosi/",
+      "desc":"Computation and Language Lab, UC Berkeley"
+    },
+    {
+      "name":"Guillermo Puebla",
+      "url":"https://guillermopuebla.github.io",
+      "desc":"University of Edinburgh, University of Bristol"
+    },
+    {
+      "name":"Eric Schulz",
+      "url":"https://cpilab.org",
+      "desc":"Computational Principles of Intelligence Lab, MPI Tübingen"
+    },
+    {
+      "name":"Jiajun Wu",
+      "url":"https://jiajunwu.com",
+      "desc":"Stanford Vision and Learning Lab, Stanford AI Lab"
+    },
+    {
+      "name":"Bonan Zhao",
+      "url":"http://bramleylab.ppls.ed.ac.uk/member/bonan/",
+      "desc":"Bramley Lab, University of Edinburgh"
     }
   ]
 }
